@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://souankbanik.github.io/tubemagic-review/sitemap.xml
